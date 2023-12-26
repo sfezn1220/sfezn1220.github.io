@@ -1,3 +1,5 @@
 .idea
 
 *.pyc
+
+wavs_sample/202310/*
